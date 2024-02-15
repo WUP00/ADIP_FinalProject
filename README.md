@@ -4,3 +4,4 @@ The project is divided into three main stages. The first stage involves preproce
 In the second stage, the results obtained from the previous stage are used to calculate hash values, and comparisons are made pairwise to determine the relationships between all the images, which are then sorted based on these relationships. 
 In the third stage, the sorted results are arranged into a video format, and the time spent on all processes and evaluation metrics are calculated to obtain the necessary data and final outcomes. 
 The programs are all parallelized to improve execution efficiency and make more effective use of computer hardware.
+![123](https://github.com/WUP00/ADIP_FinalProject/assets/152240712/509b6f1a-2cc8-4d77-be7f-d48e3d52f7b7)
