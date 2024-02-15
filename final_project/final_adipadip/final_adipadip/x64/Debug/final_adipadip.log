@@ -1,0 +1,10 @@
+﻿main.obj : error LNK2019: 在函式 __imp__invalid_parameter"void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z) 中參考了無法解析的外部符號
+PUBG.obj : error LNK2001: 無法解析的外部符號 __imp__invalid_parameter
+sorting.obj : error LNK2001: 無法解析的外部符號 __imp__invalid_parameter
+main.obj : error LNK2019: 在函式 __imp__calloc_dbg"char * __cdecl std::_Maklocstr<char>(char const *,char *,struct _Cvtvec const &)" (??$_Maklocstr@D@std@@YAPEADPEBDPEADAEBU_Cvtvec@@@Z) 中參考了無法解析的外部符號
+PUBG.obj : error LNK2001: 無法解析的外部符號 __imp__calloc_dbg
+sorting.obj : error LNK2001: 無法解析的外部符號 __imp__calloc_dbg
+main.obj : error LNK2019: 在函式 __imp__CrtDbgReport"void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z) 中參考了無法解析的外部符號
+PUBG.obj : error LNK2001: 無法解析的外部符號 __imp__CrtDbgReport
+sorting.obj : error LNK2001: 無法解析的外部符號 __imp__CrtDbgReport
+C:\Users\wup4416\Desktop\ADIP\final_project\final_adipadip\x64\Debug\final_adipadip.exe : fatal error LNK1120: 3 個無法解析的外部符號
